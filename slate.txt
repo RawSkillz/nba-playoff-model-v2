@@ -1,28 +1,28 @@
 Miami Heat
 Atlanta Hawks
 -1
--114
--116
-O 218.5
+-108
+-112
+O 221
 -112
 +1
--106
--102
-U 218.5
+-112
+-104
+U 221
 -108
 7:10pm ET
 More wagers
 Dallas Mavericks
 Memphis Grizzlies
 +6
--106
-+205
-O 220.5
 -110
++200
+O 221.5
+-112
 -6
--114
--250
-U 220.5
 -110
+-245
+U 221.5
+-108
 9:40pm ET
 More wagers
