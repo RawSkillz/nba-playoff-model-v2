@@ -92,7 +92,7 @@ position_map = {
 
 slate_df = pd.DataFrame()
 try:
-    url = "https://raw.githubusercontent.com/rawskillz/nba-playoff-model/main/slate.txt"
+    url = "https://raw.githubusercontent.com/rawskillz/nba-playoff-model-v2/main/slate.txt"
     response = requests.get(url)
     response.raise_for_status()
     lines = [line.strip() for line in response.text.splitlines() if line.strip()]
