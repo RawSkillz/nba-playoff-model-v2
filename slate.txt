@@ -10,22 +10,22 @@ O 224.5
 -220
 U 224.5
 -112
-Sat 1:00pm ET
+1:00pm ET
 Stats
 More wagers
 Los Angeles Clippers
 Denver Nuggets
 +2.5
 -110
-+122
++120
 O 224
 -114
 -2.5
 -110
--144
+-142
 U 224
 -106
-Sat 3:30pm ET
+3:30pm ET
 Stats
 More wagers
 Detroit Pistons
@@ -40,7 +40,7 @@ O 220.5
 -290
 U 220.5
 -108
-Sat 6:00pm ET
+6:00pm ET
 Stats
 More wagers
 Minnesota Timberwolves
@@ -55,7 +55,22 @@ O 216.5
 -186
 U 216.5
 -110
-Sat 8:30pm ET
+8:30pm ET
+Stats
+More wagers
+Memphis Grizzlies
+Oklahoma City Thunder
++13
+-112
++540
+O 226.5
+-114
+-13
+-108
+-770
+U 226.5
+-106
+Sun 1:00pm ET
 Stats
 More wagers
 Orlando Magic
@@ -75,15 +90,15 @@ Stats
 More wagers
 Miami Heat
 Cleveland Cavaliers
-+12
--108
-+500
-O 214
--110
--12
++12.5
 -112
--700
-U 214
++520
+O 214.5
+-110
+-12.5
+-108
+-720
+U 214.5
 -110
 Sun 7:00pm ET
 Stats
