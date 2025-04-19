@@ -1,28 +1,105 @@
-Miami Heat
-Atlanta Hawks
--1
+Milwaukee Bucks
+Indiana Pacers
++5.5
+-110
++184
+O 224.5
 -108
+-5.5
+-110
+-220
+U 224.5
 -112
-O 221
--112
-+1
--112
--104
-U 221
--108
-7:10pm ET
+Sat 1:00pm ET
+Stats
 More wagers
-Dallas Mavericks
-Memphis Grizzlies
-+6
+Los Angeles Clippers
+Denver Nuggets
++2.5
 -110
-+200
-O 221.5
++122
+O 224
+-114
+-2.5
+-110
+-144
+U 224
+-106
+Sat 3:30pm ET
+Stats
+More wagers
+Detroit Pistons
+New York Knicks
++7
+-106
++235
+O 220.5
 -112
--6
--110
--245
-U 221.5
+-7
+-114
+-290
+U 220.5
 -108
-9:40pm ET
+Sat 6:00pm ET
+Stats
+More wagers
+Minnesota Timberwolves
+Los Angeles Lakers
++4
+-108
++156
+O 216.5
+-110
+-4
+-112
+-186
+U 216.5
+-110
+Sat 8:30pm ET
+Stats
+More wagers
+Orlando Magic
+Boston Celtics
++13.5
+-108
++660
+O 206
+-108
+-13.5
+-112
+-1000
+U 206
+-112
+Sun 3:30pm ET
+Stats
+More wagers
+Miami Heat
+Cleveland Cavaliers
++12
+-108
++500
+O 214
+-110
+-12
+-112
+-700
+U 214
+-110
+Sun 7:00pm ET
+Stats
+More wagers
+Golden State Warriors
+Houston Rockets
++1
+-110
+-102
+O 213.5
+-110
+-1
+-110
+-116
+U 213.5
+-110
+Sun 9:30pm ET
+Stats
 More wagers
