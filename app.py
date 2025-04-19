@@ -79,7 +79,7 @@ team_abbr = {
     "Toronto Raptors": "TOR", "Chicago Bulls": "CHI", "Cleveland Cavaliers": "CLE", "Detroit Pistons": "DET",
     "Indiana Pacers": "IND", "Milwaukee Bucks": "MIL", "Charlotte Hornets": "CHA", "Miami Heat": "MIA",
     "Washington Wizards": "WAS", "Dallas Mavericks": "DAL", "Denver Nuggets": "DEN", "Houston Rockets": "HOU",
-    "LA Clippers": "LAC", "Los Angeles Lakers": "LAL", "Phoenix Suns": "PHX", "Sacramento Kings": "SAC",
+    "Los Angeles Clippers": "LAC", "Los Angeles Lakers": "LAL", "Phoenix Suns": "PHX", "Sacramento Kings": "SAC",
     "San Antonio Spurs": "SAS", "New Orleans Pelicans": "NOP", "Minnesota Timberwolves": "MIN", "Oklahoma City Thunder": "OKC",
     "Portland Trail Blazers": "POR", "Utah Jazz": "UTA"
 }
