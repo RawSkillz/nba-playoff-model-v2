@@ -1,115 +1,120 @@
-Milwaukee Bucks
-32
-Indiana Pacers
-41
-+12.5
--132
-+470
-O 230.5
--120
--12.5
-+100
--770
-U 230.5
--110
-2ND QUARTER - 09:27
-2ND QUARTER - 00'
-More wagers
-Los Angeles Clippers
-Denver Nuggets
-+2.5
--110
-+118
-O 225
--112
--2.5
--110
--138
-U 225
--108
-3:30pm ET
-More wagers
-Detroit Pistons
-New York Knicks
-+7
--106
-+240
-O 220.5
--112
--7
--114
--295
-U 220.5
--108
-6:00pm ET
-More wagers
-Minnesota Timberwolves
-Los Angeles Lakers
-+4
--106
-+158
-O 217
--110
--4
--114
--188
-U 217
--110
-8:30pm ET
-More wagers
 Memphis Grizzlies
 Oklahoma City Thunder
 +13
 -108
-+610
-O 227.5
--110
++570
+O 229.5
+-108
 -13
 -112
--900
-U 227.5
--110
-Sun 1:00pm ET
+-820
+U 229.5
+-112
+1:00pm ET
+Stats
 More wagers
 Orlando Magic
 Boston Celtics
 +13.5
 -108
 +660
-O 206
+O 205.5
 -108
 -13.5
 -112
 -1000
-U 206
+U 205.5
 -112
-Sun 3:30pm ET
+3:30pm ET
+Stats
 More wagers
 Miami Heat
 Cleveland Cavaliers
 +12.5
--112
-+500
-O 214.5
--112
+-108
++530
+O 215.5
+-108
 -12.5
--108
--700
-U 214.5
--108
-Sun 7:00pm ET
+-112
+-750
+U 215.5
+-112
+7:00pm ET
+Stats
 More wagers
 Golden State Warriors
 Houston Rockets
 +1
 -110
 +100
-O 213.5
+O 213
 -110
 -1
 -110
 -118
-U 213.5
+U 213
 -110
-Sun 9:30pm ET
+9:30pm ET
+Stats
+More wagers
+Detroit Pistons
+New York Knicks
++6.5
+-108
++215
+O 222
+-108
+-6.5
+-112
+-260
+U 222
+-112
+Mon 7:30pm ET
+Stats
+More wagers
+Los Angeles Clippers
+Denver Nuggets
+-1
+-108
+-108
+O 218
+-108
++1
+-112
+-108
+U 218
+-112
+Mon 10:00pm ET
+Stats
+More wagers
+Milwaukee Bucks
+Indiana Pacers
++4.5
+-106
++166
+O 227.5
+-112
+-4.5
+-114
+-198
+U 227.5
+-108
+Tue 7:00pm ET
+Stats
+More wagers
+Minnesota Timberwolves
+Los Angeles Lakers
++5.5
+-110
++188
+O 215.5
+-108
+-5.5
+-110
+-225
+U 215.5
+-112
+Tue 10:00pm ET
+Stats
 More wagers
