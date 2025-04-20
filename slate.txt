@@ -1,60 +1,42 @@
-Memphis Grizzlies
-Oklahoma City Thunder
-+13
--108
-+570
-O 229.5
--108
--13
--112
--820
-U 229.5
--112
-1:00pm ET
-Stats
-More wagers
 Orlando Magic
 Boston Celtics
-+13.5
--108
-+660
++13
+-110
++610
 O 205.5
 -108
--13.5
--112
--1000
+-13
+-110
+-900
 U 205.5
 -112
 3:30pm ET
-Stats
 More wagers
 Miami Heat
 Cleveland Cavaliers
 +12.5
 -108
-+530
-O 215.5
++560
+O 215
 -108
 -12.5
 -112
--750
-U 215.5
+-800
+U 215
 -112
 7:00pm ET
-Stats
 More wagers
 Golden State Warriors
 Houston Rockets
 +1
--110
-+100
-O 213
+-114
+-102
+O 213.5
 -110
 -1
--110
--118
-U 213
+-106
+-116
+U 213.5
 -110
 9:30pm ET
-Stats
 More wagers
