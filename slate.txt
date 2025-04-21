@@ -1,42 +1,28 @@
-Orlando Magic
-Boston Celtics
-+13
+Detroit Pistons
+New York Knicks
++7
 -110
-+610
-O 205.5
--108
--13
++220
+O 221.5
+-105
+-7
 -110
--900
-U 205.5
--112
-3:30pm ET
+-270
+U 221.5
+-115
+7:30pm ET
 More wagers
-Miami Heat
-Cleveland Cavaliers
-+12.5
--108
-+560
-O 215
--108
--12.5
--112
--800
-U 215
--112
-7:00pm ET
-More wagers
-Golden State Warriors
-Houston Rockets
-+1
--114
--102
-O 213.5
--110
+Los Angeles Clippers
+Denver Nuggets
 -1
--106
--116
-U 213.5
 -110
-9:30pm ET
+-116
+O 218.5
+-110
++1
+-110
+-102
+U 218.5
+-110
+10:00pm ET
 More wagers
