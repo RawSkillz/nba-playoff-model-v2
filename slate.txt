@@ -1,56 +1,42 @@
-Milwaukee Bucks
-Indiana Pacers
-+4.5
--112
-+150
-O 228.5
--110
--4.5
+Orlando Magic
+Boston Celtics
++10.5
+-114
++400
+O 196.5
 -108
--178
-U 228.5
--110
-7:10pm ET
+-10.5
+-106
+-520
+U 196.5
+-112
+7:00pm ET
 More wagers
-Memphis Grizzlies
-Oklahoma City Thunder
-+14.5
--112
-+640
-O 229
+Miami Heat
+Cleveland Cavaliers
++12
 -110
--14.5
--108
--950
-U 229
++490
+O 212.5
+-110
+-12
+-110
+-670
+U 212.5
 -110
 7:30pm ET
 More wagers
-Minnesota Timberwolves
-Los Angeles Lakers
-+5.5
--110
-+200
-O 210.5
--110
--5.5
--110
--245
-U 210.5
--110
-10:00pm ET
-More wagers
-Orlando Magic
-Boston Celtics
-+12.5
--110
-+530
-O 199.5
--110
--12.5
--110
--750
-U 199.5
--110
-Wed 7:00pm ET
+Golden State Warriors
+Houston Rockets
++3
+-106
++140
+O 204.5
+-112
+-3
+-114
+-166
+U 204.5
+-108
+9:30pm ET
 More wagers
