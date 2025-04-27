@@ -1,42 +1,56 @@
-Cleveland Cavaliers
-Miami Heat
--5.5
--110
--215
-O 213
--112
-+5.5
--110
-+180
-U 213
+New York Knicks
+Detroit Pistons
++2
 -108
++114
+O 217
+-110
+-2
+-112
+-134
+U 217
+-110
 1:00pm ET
 More wagers
-Oklahoma City Thunder
-Memphis Grizzlies
--15.5
--108
--1000
-O 223
+Los Angeles Lakers
+Minnesota Timberwolves
++3
 -110
-+15.5
--112
-+660
-U 223
++130
+O 209
+-110
+-3
+-110
+-154
+U 209
 -110
 3:30pm ET
 More wagers
-Denver Nuggets
-Los Angeles Clippers
-+6
--110
-+188
-O 212.5
+Boston Celtics
+Orlando Magic
+-6.5
 -114
--6
+-290
+O 197.5
 -110
--225
-U 212.5
++6.5
 -106
-6:00pm ET
++235
+U 197.5
+-110
+7:00pm ET
+More wagers
+Indiana Pacers
+Milwaukee Bucks
++4.5
+-110
++154
+O 226.5
+-108
+-4.5
+-110
+-184
+U 226.5
+-112
+9:30pm ET
 More wagers
