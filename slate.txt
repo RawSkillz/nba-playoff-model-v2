@@ -1,56 +1,28 @@
-New York Knicks
-Detroit Pistons
-+2
--108
-+114
-O 217
--110
--2
--112
--134
-U 217
--110
-1:00pm ET
-More wagers
-Los Angeles Lakers
-Minnesota Timberwolves
-+3
--110
-+130
-O 209
--110
--3
--110
--154
-U 209
--110
-3:30pm ET
-More wagers
-Boston Celtics
-Orlando Magic
--6.5
+Cleveland Cavaliers
+Miami Heat
+-8.5
 -114
--290
-O 197.5
--110
-+6.5
--106
-+235
-U 197.5
--110
-7:00pm ET
-More wagers
-Indiana Pacers
-Milwaukee Bucks
-+4.5
--110
-+154
-O 226.5
--108
--4.5
--110
--184
-U 226.5
+-375
+O 211
 -112
-9:30pm ET
++8.5
+-106
++300
+U 211
+-108
+7:30pm ET
+More wagers
+Houston Rockets
+Golden State Warriors
++4
+-110
++144
+O 203
+-110
+-4
+-110
+-172
+U 203
+-110
+10:00pm ET
 More wagers
