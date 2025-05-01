@@ -1,28 +1,28 @@
-Golden State Warriors
-Houston Rockets
-+4
+New York Knicks
+Detroit Pistons
++1.5
 -110
-+148
-O 204.5
--108
--4
++100
+O 214.5
 -110
--176
-U 204.5
--112
+-1.5
+-110
+-118
+U 214.5
+-110
 7:30pm ET
 More wagers
-Minnesota Timberwolves
-Los Angeles Lakers
+Denver Nuggets
+Los Angeles Clippers
 +6
--110
-+198
-O 210
--110
+-106
++220
+O 212
+-114
 -6
--110
--240
-U 210
--110
+-114
+-270
+U 212
+-106
 10:00pm ET
 More wagers
